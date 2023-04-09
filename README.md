@@ -1,11 +1,13 @@
-### Hello World!! 👋
+### Hello World 👋
 
-My name is Emmanuel Rodríguez. I'am a mexican developer Full Stack in Web Technologies.
+My name is Emmanuel Rodríguez. I am a ⚡️ Master Software Engineer and ⬢ Sr. Full Stack Engineer at Arkusnexus.
 
-I like to:
-- 👾 Play videogames such as _**MOBAs**_, _**Single Player**_
-- 📚  See series and books with different topics (Terror, Suspense, Fiction, etc.)
-- ⚽️ Play soccer
+I am a full-time advocate developer looking to explore new worlds to find and tell stories related to software development.
+
+In my spare time:
+- 📚 Read mystery and horror books
+- 🎮 Play competitive games with friends.
+- 🍿 Movies and series with my girlfriend ❣️
 
 ### My GitHub Stats ✨
 
